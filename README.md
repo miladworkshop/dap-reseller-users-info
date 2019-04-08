@@ -7,7 +7,7 @@ Installation
 
 ~~~~
 cd /usr/local/directadmin/plugins/
-git clone https://github.com/websafe/dap-reseller-users-info.git
+git clone https://github.com/miladworkshop/dap-reseller-users-info.git
 cd dap-reseller-users-info
 mkdir -p vendor/bin
 wget -O - https://getcomposer.org/installer | php -n -- --install-dir=vendor/bin
